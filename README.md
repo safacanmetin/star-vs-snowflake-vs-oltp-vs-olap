@@ -1,6 +1,6 @@
 # Tourism Data Schemas – OLTP vs OLAP | Star vs Snowflake
 
-> 🧑‍💼 **For non-technical readers:** see [Project Motivation](#project-motivation) and [Key Takeaways](#key-takeaways)  
+> 🧑‍💼 **For non-technical readers:** see [Project Motivation](#[project-motivation](https://github.com/safacanmetin/star-vs-snowflake-vs-oltp-vs-olap/tree/main#-project-motivation)) and [Key Takeaways](#key-takeaways)  
 > 🧑‍💻 **For technical readers:** skip to [Technical Overview](#technical-overview)
 
 ---
