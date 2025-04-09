@@ -7,7 +7,7 @@
 
 ## 📌 Project Motivation
 
-This project is part of my transition journey from Software Support Engineering to Data Engineering.
+I built this project to explore OLTP/OLAP systems and dimensional modeling concepts by applying them to a practical use case.      
 
 Instead of just reading about OLTP/OLAP and dimensional modeling, I decided to apply what I learned using simple SQL structures based on city-level tourism data in Turkey.
 
