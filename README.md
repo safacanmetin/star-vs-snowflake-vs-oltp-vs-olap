@@ -103,4 +103,4 @@ No additional data or tools are required.
 ## 📬 Feedback
 
 This is a small part of a bigger learning journey toward data engineering.  
-If you have feedback or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/) or open an issue!
+If you have feedback or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/safacanmetin) or open an issue!
