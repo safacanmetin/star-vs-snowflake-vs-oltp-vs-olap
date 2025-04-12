@@ -43,6 +43,11 @@ This repository contains four different SQL schema examples:
 
 ![Schema Diagram](assets/schema_diagrams.png)
 
+**Schema Diagram v2 - more accurate:**
+
+![Schema Diagram v2 - more accurate](assets/diagram_v2.png)
+
+
 ---
 
 ## 🔍 OLTP vs OLAP
